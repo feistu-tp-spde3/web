@@ -36,6 +36,13 @@ body, html {
 .menovky {
     text-align: center;
 }
+.mena{
+
+    width: 47.3%;
+    background-color: aliceblue;
+    margin-left: 25%;
+    text-align: center;
+}
 
 
 /* Turn off parallax scrolling for tablets and phones */
